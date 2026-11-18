@@ -19,7 +19,7 @@
     .\Get-IntuneComplianceReport.ps1 -StaleDays 14 -ExportPath .\geraete.csv
 
 .NOTES
-    Autor:     eazzy1989
+    Autor:     Ismail Yildiz
     Benötigt:  Microsoft.Graph.Authentication, Microsoft.Graph.DeviceManagement
     Scopes:    DeviceManagementManagedDevices.Read.All
 #>

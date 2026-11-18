@@ -20,7 +20,7 @@
     .\Get-M365LicenseReport.ps1 -WarnFree 5 -ExportPath .\lizenzen.csv
 
 .NOTES
-    Autor:     eazzy1989
+    Autor:     Ismail Yildiz
     Benötigt:  Microsoft.Graph.Authentication, Microsoft.Graph.Identity.DirectoryManagement
     Scopes:    Organization.Read.All
 #>

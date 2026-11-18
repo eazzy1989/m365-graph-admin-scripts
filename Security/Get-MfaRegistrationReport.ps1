@@ -17,7 +17,7 @@
     .\Get-MfaRegistrationReport.ps1 -ExportPath .\mfa.csv
 
 .NOTES
-    Autor:     eazzy1989
+    Autor:     Ismail Yildiz
     Benötigt:  Microsoft.Graph.Authentication, Microsoft.Graph.Reports
     Scopes:    AuditLog.Read.All, UserAuthenticationMethod.Read.All
     Hinweis:   Der Bericht erfordert Microsoft Entra ID P1 oder P2.

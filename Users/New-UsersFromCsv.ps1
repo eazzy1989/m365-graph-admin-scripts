@@ -28,7 +28,7 @@
     .\New-UsersFromCsv.ps1 -CsvPath .\onboarding.csv -Domain contoso.de
 
 .NOTES
-    Autor:     eazzy1989
+    Autor:     Ismail Yildiz
     Benötigt:  Microsoft.Graph.Authentication, Microsoft.Graph.Users, Microsoft.Graph.Identity.DirectoryManagement
     Scopes:    User.ReadWrite.All, Organization.Read.All
     Die Startpasswörter werden nur in der Konsole ausgegeben und sollten sicher übergeben werden.

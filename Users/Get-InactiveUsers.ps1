@@ -18,7 +18,7 @@
     .\Get-InactiveUsers.ps1 -Days 60 -ExportPath .\inaktiv.csv
 
 .NOTES
-    Autor:     eazzy1989
+    Autor:     Ismail Yildiz
     Benötigt:  Microsoft.Graph.Authentication, Microsoft.Graph.Users
     Scopes:    User.Read.All, AuditLog.Read.All
     Hinweis:   Die Anmeldeinformationen (signInActivity) erfordern Microsoft Entra ID P1 oder P2.
