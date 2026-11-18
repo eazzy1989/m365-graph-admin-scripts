@@ -1,5 +1,7 @@
 # Microsoft 365 Admin-Skripte mit Microsoft Graph
 
+[![PowerShell](https://github.com/eazzy1989/m365-graph-admin-scripts/actions/workflows/powershell-lint.yml/badge.svg)](https://github.com/eazzy1989/m365-graph-admin-scripts/actions/workflows/powershell-lint.yml)
+
 PowerShell-Skripte für typische Aufgaben in der Microsoft-365-Administration – Berichte zu Lizenzen, Benutzern, Geräten und Sicherheit sowie ein Onboarding per CSV. Alle Skripte nutzen das offizielle **Microsoft Graph PowerShell SDK** und fordern nur die Berechtigungen an, die sie wirklich brauchen.
 
 Entstanden als Praxisprojekt zu meiner Zertifizierung **Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)**.
